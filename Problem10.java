@@ -1,4 +1,4 @@
-public class Problem10 {
+public class ProblemNo10 {
 	public static boolean isPrime(long n) {
         if (n < 2) return false;
         else if (n == 2) return true;
