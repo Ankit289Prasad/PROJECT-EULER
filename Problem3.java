@@ -1,5 +1,5 @@
 import java.util.*;
-public class Problem3 {
+public class P3 {
 	public static void main(String[] args ) 
 	{
 	    long numm = 600851475143L;
